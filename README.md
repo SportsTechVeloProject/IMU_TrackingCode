@@ -12,7 +12,7 @@
 
 ### Extra:
     - QP/C and QM bundle
-        - [https://www.state-machine.com/#Downloads](https://www.state-machine.com/#Downloads)
+[https://www.state-machine.com/#Downloads](https://www.state-machine.com/#Downloads)
 
     - Thesis RISC-V QP
-        - 
+ 
