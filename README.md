@@ -10,7 +10,7 @@
       - Show where in the lift you need to improve to get an even lift.
 ## 3. Lean Canvas:
 
-## 4.Extra stuff:
+## Extra stuff:
     - QP/C and QM bundle
 [https://www.state-machine.com/#Downloads](https://www.state-machine.com/#Downloads)
 
